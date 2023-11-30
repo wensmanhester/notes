@@ -63,3 +63,8 @@ Remember to take breaks throughout the day to avoid burnout and maintain focus. 
 
 # 2023-11-29
 - "Keep it simple, stupid!"
+
+# 2023-11-30
+- Today's programming wisdom is to be a lifelong learner, always staying up-to-date with the latest technologies and programming languages. This involves reading blogs, articles, and books, attending workshops and conferences, as well as participating in online communities. By constantly updating your knowledge and skills, you will become a valuable asset to any team or organization.
+
+Another piece of wisdom involves writing clean and modular code. Follow the principles of SOLID programming, such as the Single Responsibility Principle, which states that each function or class should have a single responsibility. Also, use object-oriented programming (OOP) concepts like inheritance, polymorphism, encapsulation, to create reusable and maintainable code bases. Code should be easy to understand and follow, making it easier for others to contribute to your project.
