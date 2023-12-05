@@ -84,3 +84,6 @@ Next, use tools and resources to help manage your workflow. For example, using v
 - Today's programming wisdom is to always keep learning and adapting to new technologies and programming languages. As the tech industry continues to evolve, it' s crucial to stay up-to-date with the latest trends and tools. This includes understanding the benefits and limitations of different programming paradigms, such as object-oriented, functional, and procedural programming.
 
 To stay ahead of the curve, regularly read industry blogs, follow developers on social media, attend conferences, workshops, or online courses. By constantly learning, you' ll be able to better understand the problems you encounter and develop creative solutions to them. Remember that every problem is an opportunity to learn and grow as a developer.
+
+# 2023-12-05
+- Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. It means that trying to optimize code before it's necessary can lead to complex, hard-to-maintain code and may not actually result in significant performance improvements. Instead, focus on writing clear, readable code that works correctly first, and only optimize when profiling indicates a bottleneck.
