@@ -87,3 +87,6 @@ To stay ahead of the curve, regularly read industry blogs, follow developers on 
 
 # 2023-12-05
 - Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. It means that trying to optimize code before it's necessary can lead to complex, hard-to-maintain code and may not actually result in significant performance improvements. Instead, focus on writing clear, readable code that works correctly first, and only optimize when profiling indicates a bottleneck.
+
+# 2023-12-06
+- "Keep it simple, stupid!"
