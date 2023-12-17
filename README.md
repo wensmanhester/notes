@@ -128,3 +128,8 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 1. Continuously learn new programming skills and languages: Staying current with new technology and coding languages is essential for success as an IT professional. This can include learning new frameworks, libraries, and development tools.
 2. Practice makes perfect: Coding is a skill that improves with practice. Make it a habit to code regularly and try to solve different problems to improve your problem-solving abilities. 
 3. Collaborate with others: Programming is often a team effort. Working with other developers can help improve communication and problem solving skills, as well as learning from their experiences and knowledge. By collaborating, you can also learn about new tools and technologies that can improve the quality of your work.
+
+# 2023-12-17
+- "Premature optimization is the root of all evil" - Donald Knuth. 
+
+As a programmer, it's easy to get caught up in trying to optimize your code before it's even necessary. However, this can often lead to overcomplicated and difficult-to-maintain code. It's important to focus on writing clean, readable code first and only optimize when profiling has shown that it's absolutely necessary.
