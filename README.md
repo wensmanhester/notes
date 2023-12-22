@@ -147,3 +147,6 @@ Optimizing code before it's necessary can lead to overly complex and hard-to-mai
 
 # 2023-12-21
 - "Keep it simple, stupid!"
+
+# 2023-12-22
+- Today's programming wisdom is to embrace the principle of "Write code that is easy to delete, not easy to extend." Focus on simplicity and readability. Avoid premature optimization and over-engineering. Always keep in mind that code is more often read than written, so strive to make it clear and concise. Continuously refactor and remove unnecessary complexity. Lastly, remember that software development is a collaborative effort; hence, consider the impact of your code on your team and future maintainers.
