@@ -172,3 +172,6 @@ Another important aspect of programming wise is problem-solving. When faced with
 5. Attend workshops and conferences: These events are great ways to learn from industry experts, network with other programmers,and stay informed about the newest technologies.    
 6. Seek feedback: Reach out to colleagues, mentors, or even online communities to get feedback on your code and learn how you can improve. This will also help build your confidence and strengthen your problem solving skills.     
 7. Don' t be afraid to ask questions: Asking questions is an essential part of learning, so don't be shy about seeking help or guidance from others. There' st always someone willing to lend a hand and share their knowledge.
+
+# 2023-12-27
+- "Keep it simple, stupid!"
