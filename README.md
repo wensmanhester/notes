@@ -199,3 +199,6 @@ This principle, attributed to Leonardo da Vinci, reminds us that while it's easy
 
 Second, planning ahead is crucial for success. Make a plan for your day, week, or even month, depending on your project. Planning ahead will allow you time to think through potential issues and challenges, so you're better prepared to tackle them when they arise. It will also help to keep you focused and on track with your goals. 
  3. Stay organized by using tools and techniques that help keep your code, files, projects, etc. in order. Using version control systems like Git can help with collaboration and tracking changes, while using project management tools like Trello or Asana can keep track of tasks and milestones. Organizing your workspace and codebase will make it easier to find what you need and reduce the likelihood of mistakes.
+
+# 2024-01-02
+- "Keep it simple, stupid!"
