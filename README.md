@@ -336,3 +336,6 @@ Remember to stay flexible and adaptable, as you may encounter unforeseen challen
 
 One of the most important aspects of programming is problem-solving. When faced with a challenging problem, take a step back, break it down into smaller components,and analyze the root cause. Then, use critical thinking and creativity to come up with innovative solutions. Remember that there is rarely only one correct answer, so don't be afraid to explore multiple options. 
  - 来自NLP
+
+# 2024-01-26
+- "Today's programming wisdom is to embrace the SOLID principles: Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion. These guidelines ensure code maintainability, reusability, and scalability. They encourage writing clear, decoupled modules that are easy to understand, test, and evolve over time. Always remember that clarity and simplicity are key virtues in crafting robust software systems."
