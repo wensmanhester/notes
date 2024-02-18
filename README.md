@@ -458,3 +458,8 @@ In brief:
 - Liskov Substitution: Derived classes must be substitutable for their base classes.
 - Interface Segregation: Clients should not be forced to depend on methods they do not use.
 - Dependency Inversion: High-level modules should not depend on low-level modules; both should depend on abstractions.
+
+# 2024-02-18
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In coding, always strive to write clean, readable, and maintainable code. It’s better to have a simple solution that works reliably than a complex one that’s hard to understand or debug. Remember that you're not just writing code for computers but also for fellow human beings who will read, review, and build upon it. And as your program evolves, the value of simplicity compounds." 
+
+"Also, 'Premature optimization is the root of all evil.' — Donald Knuth. Focus on making your code correct first, then optimize if and when necessary. Modern software systems are often more bound by architecture and design choices than by raw speed of individual components. Hence, invest time in understanding the problem domain and designing an efficient algorithm before diving into micro-optimizations."
